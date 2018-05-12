@@ -1,0 +1,27 @@
+_repo: Laila-eli-Kuvaelmia-Ruijan-rannoilta_33493
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Friis, J. A. (Jens Andreas)
+    alias: Friis, Jens Andreas
+    birthdate: 1821
+    deathdate: 1896
+    gutenberg_agent_id: '36443'
+    url: http://www.gutenberg.org/2009/agents/36443
+description: ''
+gutenberg_issued: '2010-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33493'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norway -- Fiction'
+title: Laila eli Kuvaelmia Ruijan rannoilta
+url: http://www.gutenberg.org/ebooks/33493
